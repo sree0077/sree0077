@@ -2,8 +2,6 @@
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sree0077" alt="sree0077" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https:\\sreeraj7.vercel.app](https:\\sreeraj7.vercel.app)
 
 - 📫 How to reach me **Sreerajkasaragod007@gmail.com**
