@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sreeraj A</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sree0077&label=Profile%20views&color=0e75b6&style=flat" alt="sree0077" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sree0077" alt="sree0077" /></a> </p>
 
