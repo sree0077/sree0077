@@ -6,6 +6,13 @@
 
 - 📫 How to reach me **Sreerajkasaragod007@gmail.com**
 
+- 📄 **Download my resume:** 
+<p align="left">
+<a href="https://github.com/sree0077/sree0077/raw/main/SreerajResume%20(2).pdf" target="_blank">
+<img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume"/>
+</a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/sreeraj-a-14b97a211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sreeraj-a-14b97a211" height="30" width="40" /></a>
