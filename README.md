@@ -8,7 +8,7 @@
 
 - 📄 **Download my resume:** 
 <p align="left">
-<a href="https://github.com/sree0077/sree0077/raw/main/SreerajResume%20(2).pdf" target="_blank">
+<!-- <a href="https://github.com/sree0077/sree0077/raw/main/SreerajResume%20(2).pdf" target="_blank"> -->
 <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume"/>
 </a>
 </p>
